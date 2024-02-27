@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "desafio---clases-en-es6",
+  "version": "1.0.0",
+  "description": "Desafio Evaluado ES6",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "main": "node ./src/main.js"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.23.9",
+    "@babel/core": "^7.23.9",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.23.9"
+  },
+  "dependencies": {
+    "core-js": "^3.36.0"
+  }
+}
